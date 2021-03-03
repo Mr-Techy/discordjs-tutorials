@@ -19,3 +19,5 @@
 - A _prefix_ is the character(s) that come before each command you run. One example of a prefix is **!**.
 
 #### Now you're ready to start coding your commands!
+
+###### You can go to my channel (linked above) for tutorials using this project!
